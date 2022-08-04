@@ -55,3 +55,6 @@ git diff
 
 main2
 Ветка_2
+
+main2
+Ветка_2
