@@ -54,3 +54,6 @@ git diff
 
 main3
 Ветка_3
+
+main3
+Ветка_3
